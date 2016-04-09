@@ -189,7 +189,7 @@ msgid "Set the password for Samba sharing"
 msgstr ""
 
 msgctxt "#742"
-msgid "Set to ON to enable the embedded SSH server. The SSH console can be accessed with username 'root' and password '@ROOT_PASSWORD@'."
+msgid "Set to ON to enable the embedded SSH server. "
 msgstr ""
 
 msgctxt "#743"
@@ -211,7 +211,7 @@ msgid "750"
 msgstr ""
 
 msgctxt "#751"
-msgid "With OBEX filetransfer you can send files, for example movies or pictures over bluetooth to @DISTRONAME@."
+msgid "With OBEX filetransfer you can send files, for example movies or pictures over bluetooth ."
 msgstr ""
 
 msgctxt "#752"
@@ -597,7 +597,7 @@ msgid "Sharing and Remote Access"
 msgstr ""
 
 msgctxt "#32312"
-msgid "@DISTRONAME@ also supports SSH for remote access. This is for advanced users who wish to interact with @DISTRONAME@'s underlying operating system. The default user is [COLOR blue]root[/COLOR] and the default password is [COLOR blue]@ROOT_PASSWORD@[/COLOR]."
+msgid "This is for advanced users who wish to interact with Tune's underlying operating system. The default user is you. [COLOR blue]Congrats[/COLOR]."
 msgstr ""
 
 msgctxt "#32313"
