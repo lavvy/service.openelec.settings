@@ -121,11 +121,11 @@ msgid "Restore a tar archive backup previously created using the backup option a
 msgstr ""
 
 msgctxt "#724"
-msgid "[COLOR FF00FF00]SOFT RESET[/COLOR]\nPermanently reset @DISTRONAME@ configuration to defaults (resets also Kodi to default including your library. your media - music/videos/etc are not touched)"
+msgid "[COLOR FF00FF00]SOFT RESET[/COLOR]\nPermanently reset TUNE configuration to defaults"
 msgstr ""
 
 msgctxt "#725"
-msgid "[COLOR FFFF0000]HARD RESET[/COLOR]\nPermanently reset @DISTRONAME@ and Kodi configuration to defaults (everything in your storage partition will be deleted)"
+msgid "[COLOR FFFF0000]HARD RESET[/COLOR]\nPermanently reset TUNE configuration to defaults (everything in your storage partition will be deleted)"
 msgstr ""
 
 msgctxt "#726"
@@ -165,7 +165,7 @@ msgstr ""
 #empty string with id 735
 
 msgctxt "#736"
-msgid "Set to ON to delay Kodi startup until the network is available. Use this if the OS is booting into Kodi before the network is up and central MySQL databases are accessible."
+msgid "Set to ON to delay TUNE startup until the network is available."
 msgstr ""
 
 msgctxt "#737"
@@ -193,7 +193,7 @@ msgid "Set to ON to enable the embedded SSH server. "
 msgstr ""
 
 msgctxt "#743"
-msgid "Set to ON if you have copied private SSH keys to your HTPC and would like to improve security by disabling SSH username and password authentication."
+msgid "Set to ON if you have copied private SSH keys to your HTPC ."
 msgstr ""
 
 msgctxt "#744"
@@ -561,7 +561,7 @@ msgid "Welcome"
 msgstr ""
 
 msgctxt "#32302"
-msgid "This wizard will guide you through the process of setting up your new tv installation - setting your location, timezone and connecting you to the internet.[CR][CR]These settings can be changed later by navigating to Programs > tv Settings."
+msgid "This wizard will guide you through the process of setting up your new tv installation - setting your location, timezone and connecting you to the internet.[CR][CR]These settings can still be changed later."
 msgstr ""
 
 msgctxt "#32303"
@@ -601,7 +601,7 @@ msgid "This is for advanced users who wish to interact with Tune's underlying op
 msgstr ""
 
 msgctxt "#32313"
-msgid "In order to share your files between your computers tune has incorporated a samba server. This samba server can be integrated into your local network by accessing it in a familiar way with Finder or Windows Explorer."
+msgid "In order to share your files between your computers Tune has incorporated a samba server. This samba server can be integrated into your local network by accessing it in a familiar way with Finder or Windows Explorer."
 msgstr ""
 
 #empty strings from id 32314 to 32315
